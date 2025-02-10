@@ -1,0 +1,1 @@
+# lab2_hospital_management
